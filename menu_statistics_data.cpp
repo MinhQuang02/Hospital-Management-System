@@ -8,7 +8,7 @@ void dataManagementAndStatisticsMenu(string &dataChoice, int &dataChoiceInt)
     centerText("1. Show all information about patient.\n");
     centerText("2. Show all disease diagnosis of patient.\n");
     centerText("3. Show all information about medicine.\n");
-    centerText("4. Show all statistics about books.\n");
+    centerText("4. Show all statistics about patients.\n");
     centerText("5. Return to Main Menu.\n\n");
 
     centerText("Select one to continue the application.\n");
