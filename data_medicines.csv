@@ -1,0 +1,175 @@
+ID,Name,Category,Dosage_Form,Strength(mg),Indication,Manufacturer,Remain medicine
+1032,Acetocillin,Antidiabetic,Cream,938,Virus,Roche Holding AG,40
+1053,Ibuprocillin,Antiviral,Injection,337,Infection,CSL Limited,36
+1097,Dextrophen,Antibiotic,Ointment,333,Wound,Johnson & Johnson,23
+1130,Clarinazole,Antifungal,Syrup,362,Pain,AbbVie Inc.,34
+1320,Amoxicillin,Antifungal,Tablet,802,Wound,Teva Pharmaceutical Industries Ltd.,9
+1344,Ibupromycin,Antibiotic,Injection,140,Infection,Takeda Pharmaceutical Company Limited,44
+1423,Metovir,Antipyretic,Ointment,641,Infection,Takeda Pharmaceutical Company Limited,18
+1432,Ibuprovir,Antidepressant,Syrup,758,Fungus,Eli Lilly and Company,44
+1563,Cefcillin,Antipyretic,Tablet,954,Fungus,Takeda Pharmaceutical Company Limited,24
+1585,Acetomycin,Analgesic,Inhaler,838,Wound,Novo Nordisk A/S,37
+1696,Ibuprocillin,Antifungal,Ointment,422,Wound,AbbVie Inc.,47
+1828,Acetonazole,Antipyretic,Ointment,575,Wound,Bayer AG,36
+1871,Dolocillin,Antiviral,Ointment,451,Diabetes,Novo Nordisk A/S,27
+1957,Cefmet,Antifungal,Tablet,440,Depression,AstraZeneca plc,6
+2066,Dolophen,Antibiotic,Capsule,469,Depression,Johnson & Johnson,46
+2080,Ibupronazole,Analgesic,Injection,720,Fungus,Novartis AG,41
+2240,Amoxiprofen,Antiviral,Ointment,861,Diabetes,Novo Nordisk A/S,47
+2265,Acetomycin,Antiviral,Drops,978,Virus,Roche Holding AG,43
+2288,Amoxistatin,Antiviral,Inhaler,46,Fever,Sanofi S.A.,45
+2307,Dextrocillin,Antidiabetic,Inhaler,392,Pain,Sanofi S.A.,38
+2313,Metovir,Antifungal,Injection,124,Diabetes,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",49
+2362,Cefmet,Analgesic,Cream,649,Fungus,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",5
+2382,Clariphen,Antidiabetic,Syrup,300,Fungus,GlaxoSmithKline plc,27
+2422,Ibuprocillin,Antibiotic,Inhaler,86,Diabetes,Bristol-Myers Squibb Company,5
+2429,Dolomet,Antifungal,Drops,335,Diabetes,Amgen Inc.,8
+2443,Acetoprofen,Antibiotic,Inhaler,909,Fever,CSL Limited,34
+2450,Amoximet,Analgesic,Ointment,795,Pain,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",22
+2456,Cefmet,Antidepressant,Injection,512,Fever,Boehringer Ingelheim GmbH,20
+2473,Doloprofen,Antibiotic,Inhaler,981,Fungus,Eli Lilly and Company,32
+2508,Clariprofen,Antifungal,Tablet,123,Infection,Pfizer Inc.,33
+2510,Metocillin,Analgesic,Tablet,892,Pain,Eli Lilly and Company,7
+2518,Ibupromycin,Analgesic,Capsule,97,Diabetes,Roche Holding AG,48
+2536,Cefstatin,Antipyretic,Ointment,19,Fever,Roche Holding AG,13
+2539,Metomycin,Antifungal,Capsule,718,Wound,Pfizer Inc.,46
+2575,Acetomycin,Antifungal,Syrup,605,Virus,Bayer AG,27
+2584,Metoprofen,Antiseptic,Capsule,319,Wound,Novartis AG,31
+2798,Clarivir,Analgesic,Tablet,14,Pain,Bristol-Myers Squibb Company,16
+2810,Ibuproprofen,Analgesic,Cream,178,Pain,CSL Limited,42
+2872,Metocillin,Antibiotic,Cream,106,Depression,Amgen Inc.,28
+2884,Cefprofen,Antiseptic,Tablet,245,Pain,Novartis AG,43
+2911,Dextromycin,Antipyretic,Capsule,986,Wound,Takeda Pharmaceutical Company Limited,47
+2973,Acetonazole,Antidepressant,Ointment,93,Pain,Takeda Pharmaceutical Company Limited,38
+2993,Dextromycin,Antibiotic,Inhaler,920,Pain,AbbVie Inc.,35
+3067,Ibupromycin,Antipyretic,Injection,760,Wound,Boehringer Ingelheim GmbH,22
+3085,Amoxicillin,Analgesic,Cream,594,Fungus,Amgen Inc.,18
+3127,Ibupronazole,Antiseptic,Cream,747,Pain,Eli Lilly and Company,23
+3142,Clariprofen,Antidiabetic,Injection,650,Wound,Takeda Pharmaceutical Company Limited,47
+3145,Ibupromycin,Antibiotic,Inhaler,486,Fungus,Teva Pharmaceutical Industries Ltd.,44
+3215,Acetophen,Analgesic,Cream,76,Virus,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",14
+3216,Dextrostatin,Antifungal,Capsule,296,Wound,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",46
+3239,Dolomet,Antiseptic,Tablet,352,Diabetes,Novo Nordisk A/S,2
+3343,Metophen,Antiseptic,Tablet,404,Virus,AstraZeneca plc,27
+3376,Clariphen,Antipyretic,Syrup,956,Pain,Takeda Pharmaceutical Company Limited,38
+3586,Cefcillin,Antidiabetic,Ointment,517,Pain,Roche Holding AG,10
+3640,Amoximet,Antifungal,Capsule,727,Pain,Johnson & Johnson,7
+3670,Amoxivir,Antifungal,Syrup,289,Virus,Novartis AG,45
+3672,Metophen,Antidiabetic,Drops,44,Fever,Takeda Pharmaceutical Company Limited,28
+3765,Clariphen,Analgesic,Ointment,742,Depression,AbbVie Inc.,29
+3819,Cefmet,Antidepressant,Injection,720,Diabetes,Sanofi S.A.,32
+3890,Cefnazole,Antiviral,Inhaler,520,Diabetes,CSL Limited,45
+3949,Acetovir,Antidepressant,Injection,188,Wound,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",27
+4065,Dextrophen,Analgesic,Inhaler,406,Wound,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",47
+4085,Amoxinazole,Analgesic,Ointment,35,Depression,Pfizer Inc.,21
+4086,Dextromet,Antiviral,Syrup,564,Fever,AstraZeneca plc,48
+4108,Clarinazole,Antibiotic,Syrup,252,Infection,Novartis AG,4
+4186,Ibuproprofen,Antidepressant,Inhaler,832,Fungus,Amgen Inc.,35
+4194,Clarinazole,Analgesic,Tablet,234,Diabetes,Novartis AG,8
+4249,Clariprofen,Antidepressant,Cream,801,Infection,Boehringer Ingelheim GmbH,28
+4337,Clarimycin,Antibiotic,Syrup,254,Pain,Biogen Inc.,1
+4343,Acetostatin,Analgesic,Inhaler,490,Diabetes,CSL Limited,43
+4455,Ibuprophen,Antifungal,Ointment,967,Depression,AbbVie Inc.,15
+4511,Ibuprovir,Antiseptic,Capsule,5,Fever,Teva Pharmaceutical Industries Ltd.,8
+4541,Cefnazole,Antifungal,Capsule,83,Fungus,Eli Lilly and Company,19
+4588,Amoxinazole,Antidiabetic,Tablet,489,Pain,Sanofi S.A.,46
+4630,Metovir,Antidiabetic,Inhaler,277,Pain,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",44
+4688,Clarimet,Antidepressant,Injection,424,Diabetes,AstraZeneca plc,28
+4743,Acetomet,Antiviral,Drops,226,Pain,GlaxoSmithKline plc,24
+4744,Dolomet,Antidepressant,Syrup,82,Infection,Johnson & Johnson,20
+4766,Cefcillin,Antifungal,Inhaler,36,Depression,Eli Lilly and Company,14
+4811,Metoprofen,Antifungal,Injection,288,Pain,GlaxoSmithKline plc,37
+4832,Claricillin,Antidiabetic,Tablet,734,Virus,Novo Nordisk A/S,29
+4836,Clariprofen,Antidepressant,Drops,379,Virus,Bayer AG,25
+4862,Cefphen,Antifungal,Cream,991,Fungus,Bristol-Myers Squibb Company,22
+4915,Metophen,Antifungal,Tablet,346,Diabetes,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",4
+4921,Ibuprocillin,Antidepressant,Inhaler,903,Infection,Bristol-Myers Squibb Company,15
+5101,Metoprofen,Antibiotic,Drops,304,Diabetes,Eli Lilly and Company,4
+5123,Metostatin,Antipyretic,Ointment,982,Pain,CSL Limited,5
+5140,Cefstatin,Antidiabetic,Cream,214,Virus,Biogen Inc.,19
+5312,Clarimet,Antidiabetic,Inhaler,646,Diabetes,Sanofi S.A.,24
+5376,Amoxistatin,Antibiotic,Capsule,819,Depression,Novo Nordisk A/S,29
+5402,Metovir,Antidiabetic,Drops,656,Pain,GlaxoSmithKline plc,27
+5435,Ibupromycin,Analgesic,Ointment,382,Wound,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",9
+5451,Dextronazole,Antiseptic,Tablet,367,Diabetes,Boehringer Ingelheim GmbH,20
+5485,Dolonazole,Antifungal,Ointment,533,Pain,GlaxoSmithKline plc,28
+5553,Acetostatin,Antipyretic,Drops,498,Fever,CSL Limited,45
+5600,Cefmet,Analgesic,Inhaler,969,Depression,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",3
+5610,Doloprofen,Antipyretic,Inhaler,338,Diabetes,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",23
+5621,Claristatin,Antipyretic,Capsule,47,Infection,Pfizer Inc.,24
+5707,Acetovir,Antibiotic,Capsule,940,Diabetes,Takeda Pharmaceutical Company Limited,10
+5753,Amoxivir,Antidiabetic,Tablet,830,Fever,AbbVie Inc.,49
+5864,Dolonazole,Antiseptic,Injection,235,Virus,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",26
+5902,Ibuprophen,Antidepressant,Drops,976,Infection,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",48
+5921,Acetostatin,Antidiabetic,Cream,722,Pain,Teva Pharmaceutical Industries Ltd.,2
+5929,Metomycin,Analgesic,Inhaler,108,Pain,Roche Holding AG,1
+5935,Dextromet,Antiseptic,Syrup,998,Virus,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",23
+5989,Metovir,Antifungal,Ointment,579,Diabetes,Pfizer Inc.,33
+6019,Clarinazole,Antidiabetic,Injection,101,Pain,Roche Holding AG,32
+6051,Amoximycin,Antipyretic,Syrup,808,Fungus,Roche Holding AG,23
+6054,Dolomet,Analgesic,Drops,387,Diabetes,Eli Lilly and Company,9
+6086,Amoximycin,Antiviral,Capsule,382,Pain,GlaxoSmithKline plc,6
+6112,Claristatin,Antidepressant,Injection,270,Diabetes,Novo Nordisk A/S,7
+6152,Ibuprocillin,Antipyretic,Ointment,559,Wound,Novartis AG,6
+6158,Metophen,Antiseptic,Injection,156,Fever,Boehringer Ingelheim GmbH,16
+6344,Acetoprofen,Antiviral,Injection,150,Infection,Teva Pharmaceutical Industries Ltd.,14
+6349,Cefnazole,Antipyretic,Capsule,412,Infection,GlaxoSmithKline plc,12
+6383,Amoxicillin,Antidepressant,Tablet,511,Virus,Sanofi S.A.,49
+6390,Claristatin,Antibiotic,Injection,572,Wound,Novo Nordisk A/S,34
+6682,Dextrocillin,Antidepressant,Inhaler,328,Depression,AbbVie Inc.,34
+6715,Dextromycin,Antidiabetic,Ointment,948,Diabetes,Johnson & Johnson,42
+6757,Dolophen,Antibiotic,Tablet,20,Fever,Boehringer Ingelheim GmbH,23
+6808,Metoprofen,Antiviral,Inhaler,771,Wound,Johnson & Johnson,21
+6871,Dolomet,Antiviral,Tablet,347,Pain,Takeda Pharmaceutical Company Limited,28
+6895,Amoximycin,Antidiabetic,Cream,876,Fungus,Bayer AG,20
+7020,Dolomycin,Antidiabetic,Capsule,135,Fungus,Bayer AG,26
+7024,Metophen,Antipyretic,Capsule,700,Infection,GlaxoSmithKline plc,8
+7153,Dolomycin,Antidepressant,Inhaler,463,Wound,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",15
+7154,Dolophen,Analgesic,Ointment,686,Pain,CSL Limited,44
+7245,Metonazole,Analgesic,Cream,124,Fever,Pfizer Inc.,47
+7274,Metomet,Analgesic,Syrup,271,Fungus,Bayer AG,33
+7336,Acetomet,Analgesic,Capsule,211,Depression,Boehringer Ingelheim GmbH,5
+7438,Doloprofen,Antipyretic,Syrup,567,Depression,Takeda Pharmaceutical Company Limited,35
+7548,Dextrostatin,Antifungal,Cream,590,Virus,Roche Holding AG,21
+7753,Cefprofen,Antibiotic,Ointment,114,Wound,Novo Nordisk A/S,11
+7808,Metomet,Antidepressant,Injection,406,Diabetes,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",45
+7832,Acetovir,Analgesic,Tablet,563,Virus,CSL Limited,35
+7898,Dextrovir,Antifungal,Inhaler,940,Diabetes,Biogen Inc.,48
+8036,Clarivir,Antidiabetic,Drops,391,Fever,Boehringer Ingelheim GmbH,33
+8057,Clarimycin,Antiviral,Cream,367,Virus,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",22
+8154,Amoxicillin,Antipyretic,Drops,941,Virus,CSL Limited,47
+8180,Clarivir,Antibiotic,Capsule,504,Diabetes,Roche Holding AG,33
+8201,Metophen,Antidiabetic,Capsule,879,Fever,Roche Holding AG,28
+8225,Metonazole,Antibiotic,Drops,108,Infection,Eli Lilly and Company,50
+8342,Dextronazole,Antibiotic,Ointment,917,Infection,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",1
+8376,Amoximycin,Antiseptic,Drops,410,Fungus,Roche Holding AG,28
+8497,Ibupromycin,Antidepressant,Drops,197,Diabetes,Roche Holding AG,26
+8548,Metovir,Antidepressant,Ointment,992,Pain,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",42
+8571,Metoprofen,Antibiotic,Ointment,792,Virus,Johnson & Johnson,42
+8749,Dextrophen,Antidepressant,Inhaler,363,Fungus,Roche Holding AG,38
+8853,Cefstatin,Antiviral,Tablet,808,Fungus,CSL Limited,12
+8858,Acetocillin,Antiseptic,Capsule,263,Virus,GlaxoSmithKline plc,29
+8914,Metonazole,Antidiabetic,Cream,585,Fungus,Eli Lilly and Company,33
+8959,Ibupronazole,Antifungal,Injection,646,Pain,Roche Holding AG,15
+8966,Cefprofen,Antibiotic,Tablet,112,Pain,Johnson & Johnson,0
+8984,Ibuprostatin,Antidiabetic,Drops,157,Diabetes,Amgen Inc.,48
+9053,Ibupronazole,Analgesic,Ointment,976,Depression,Takeda Pharmaceutical Company Limited,9
+9059,Dolomycin,Antidepressant,Ointment,284,Wound,Johnson & Johnson,11
+9063,Dolonazole,Antiviral,Capsule,503,Wound,AbbVie Inc.,29
+9064,Dolovir,Antibiotic,Ointment,790,Infection,Sanofi S.A.,8
+9229,Ibupromycin,Antiviral,Injection,260,Pain,Takeda Pharmaceutical Company Limited,5
+9231,Cefmet,Antidepressant,Syrup,360,Infection,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",0
+9311,Cefstatin,Analgesic,Cream,394,Fever,Roche Holding AG,22
+9359,Cefphen,Analgesic,Syrup,50,Fungus,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",22
+9430,Clarimet,Antipyretic,Capsule,714,Wound,Novartis AG,42
+9531,Acetostatin,Antiviral,Inhaler,127,Fever,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",27
+9549,Clariprofen,Antipyretic,Drops,457,Depression,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",44
+9551,Cefmycin,Antifungal,Ointment,778,Diabetes,Sanofi S.A.,33
+9583,Clarinazole,Antipyretic,Ointment,419,Virus,Novartis AG,24
+9602,Clarimet,Antipyretic,Tablet,957,Fungus,Novo Nordisk A/S,40
+9637,Acetomet,Antidiabetic,Cream,985,Fungus,GlaxoSmithKline plc,5
+9737,Ibupromycin,Antifungal,Ointment,990,Fungus,Johnson & Johnson,31
+9804,Cefphen,Antidiabetic,Syrup,194,Fungus,Pfizer Inc.,11
+9866,Clariprofen,Antidiabetic,Cream,706,Wound,"Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences Gilead Sciences, Inc.Gilead SciencesGilead SciencesGilead SciencesGilead SciencesGilead Sciences",39
+9934,Amoxiphen,Antipyretic,Injection,984,Pain,"Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co. Merck & Co., Inc.Merck & Co.Merck & Co.Merck & Co.Merck & Co.Merck & Co.",48
+9949,Dextronazole,Antipyretic,Drops,813,Fever,Pfizer Inc.,3

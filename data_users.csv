@@ -1,0 +1,26 @@
+id_user,name_user,diagnostic_disease(1),date_dd(1),diagnostic_disease(2),date_dd(2),diagnostic_disease(n),date_dd(n)
+1406,Minh,Diabetes,29/7/2024,Hypertension,31/7/2024,Asthma,1/8/2024,Asthma,6/8/2024,Diabetes,8/8/2024
+1456,Alexander,Pneumonia,26/7/2024,Influenza,3/8/2024,Schizophrenia,6/8/2024
+2188,Linh,Asthma,29/7/2024,Osteoporosis,7/8/2024
+2946,Hong,HIV/AIDS,22/7/2024,Influenza,25/7/2024,Anxiety Disorder,29/7/2024,Anxiety Disorder,5/8/2024
+3081,Bao,Bronchitis,22/7/2024,Schizophrenia,23/7/2024,Migraine,29/7/2024,Tuberculosis,30/7/2024,Anxiety Disorder,6/8/2024
+3127,Alice,Anxiety Disorder,24/7/2024,Asthma,30/7/2024,Arthritis,4/8/2024,Lymphoma,5/8/2024
+3202,Joseph,Parkinson,31/7/2024,Bronchitis,2/8/2024,Leukemia,4/8/2024,Asthma,6/8/2024
+3713,Son,Cancer,20/7/2024,HIV/AIDS,1/8/2024
+3921,Lan,Bronchitis,23/7/2024,Migraine,2/8/2024,Tuberculosis,7/8/2024
+4213,Ngan,Alzheimer,29/7/2024,Leukemia,30/7/2024
+4647,Thomas
+4809,Emma,Cancer,8/8/2024
+4828,Khanh,Lymphoma,20/7/2024
+4925,Olivia,Lymphoma,20/7/2024,Tuberculosis,22/7/2024,Hypertension,1/8/2024,Osteoporosis,1/8/2024,Arthritis,9/8/2024
+6071,An,Osteoporosis,20/7/2024,Hepatitis,24/7/2024
+6104,Dung,Influenza,9/8/2024
+6200,Ava,Leukemia,8/8/2024
+6698,Mark,Cancer,24/7/2024,Hepatitis,2/8/2024,Hypertension,5/8/2024,Schizophrenia,9/8/2024,Anxiety Disorder,9/8/2024
+6726,Phong,Depression,24/7/2024,Arthritis,28/7/2024,Pneumonia,2/8/2024,Osteoporosis,6/8/2024,Diabetes,6/8/2024
+6823,Emily,Leukemia,27/7/2024,Asthma,1/8/2024
+7034,Kien,Anxiety Disorder,1/8/2024,Anxiety Disorder,1/8/2024
+8577,Daniel,Diabetes,1/8/2024,HIV/AIDS,5/8/2024,HIV/AIDS,9/8/2024
+8867,Phuc,Migraine,23/7/2024
+8974,Chau,Diabetes,1/8/2024,Pneumonia,9/8/2024
+9584,Huong,Depression,25/7/2024,Hypertension,2/8/2024,Anxiety Disorder,6/8/2024,Parkinson,8/8/2024,Tuberculosis,9/8/2024
